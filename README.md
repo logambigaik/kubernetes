@@ -34,3 +34,10 @@ Containers do not waste or block host resources unlike virtual machines. Contain
 
 ![image](https://user-images.githubusercontent.com/54719289/111211222-1064ea80-85c6-11eb-8fff-25acfe34c87c.png)
 
+
+![image](https://user-images.githubusercontent.com/54719289/111211375-3be7d500-85c6-11eb-98dd-34f591a504f4.png)
+
+![image](https://user-images.githubusercontent.com/54719289/111211479-5b7efd80-85c6-11eb-8562-7cb46354d98c.png)
+
+![image](https://user-images.githubusercontent.com/54719289/111211560-73ef1800-85c6-11eb-8f69-20266f149888.png)
+
