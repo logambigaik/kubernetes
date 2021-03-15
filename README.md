@@ -1,5 +1,8 @@
 # kubernetes
 
+https://www.katacoda.com/courses/kubernetes/launch-single-node-cluster
+https://training.linuxfoundation.org/resources/tutorials/set-up-a-ci-cd-pipeline-with-kubernetes-part-1-overview/
+
       >>  Kubernetes is an open-source system that handles the work of scheduling containers onto a compute cluster and manages the workloads to ensure they run as the user intends.
       >>  Kubernetes is an open source container Management tool which automates container deployment, container (de) scaling and container load balancing.
       >>  it works in all cloud vendors: Public,Hybrid & on-premises
