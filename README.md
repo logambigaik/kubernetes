@@ -19,4 +19,18 @@ Containers do not waste or block host resources unlike virtual machines. Contain
 *           Docker      -->   Containerization platform
 *           Kubernetes  -->   Conatiner manageable platform
 *           Docker swarm also doing the same container manageable platform but auto scaling ,load balancing concept are missing . Manual intervention are required.
-*          
+*           Kubernetes is not for simplle application architecture and preferrably for complex application
+
+* Kubernetes is actually for,
+
+![image](https://user-images.githubusercontent.com/54719289/111203189-97ad6080-85bc-11eb-971e-e7e9ee18ea15.png)
+
+* Kubernetes Vs Docker Swarm:
+
+![image](https://user-images.githubusercontent.com/54719289/111203704-3c2fa280-85bd-11eb-89f4-b869245ceb4b.png)
+
+
+# POd is collection of COntainer:
+
+![image](https://user-images.githubusercontent.com/54719289/111211222-1064ea80-85c6-11eb-8fff-25acfe34c87c.png)
+
