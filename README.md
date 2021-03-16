@@ -44,3 +44,9 @@ Containers do not waste or block host resources unlike virtual machines. Contain
 
 ![image](https://user-images.githubusercontent.com/54719289/111211560-73ef1800-85c6-11eb-8f69-20266f149888.png)
 
+
+# Difference between Docker swarm and kubernetes:
+![image](https://user-images.githubusercontent.com/54719289/111358918-cbeb5480-8682-11eb-86dd-de5483d1adf7.png)
+
+# Microservices:
+![image](https://user-images.githubusercontent.com/54719289/111360230-65ffcc80-8684-11eb-8c4b-25521a5fa178.png)
