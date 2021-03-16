@@ -50,3 +50,5 @@ Containers do not waste or block host resources unlike virtual machines. Contain
 
 # Microservices:
 ![image](https://user-images.githubusercontent.com/54719289/111360230-65ffcc80-8684-11eb-8c4b-25521a5fa178.png)
+
+If any issue in any one of microservices then deployment is required only for that service after fixing the issue.
