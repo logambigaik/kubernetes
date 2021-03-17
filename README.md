@@ -33,6 +33,7 @@ Containers do not waste or block host resources unlike virtual machines. Contain
 ![image](https://user-images.githubusercontent.com/54719289/111203704-3c2fa280-85bd-11eb-89f4-b869245ceb4b.png)
 
 
+
 # POd is collection of COntainer:
 
 ![image](https://user-images.githubusercontent.com/54719289/111211222-1064ea80-85c6-11eb-8fff-25acfe34c87c.png)
@@ -107,3 +108,4 @@ Docker Swarm: Swarm mode consists of a DNS element that can be utilized for dist
 ![image](https://user-images.githubusercontent.com/54719289/111541316-36c28b80-8768-11eb-8d9e-46ee737351d6.png)
 
 
+![Uploading image.png…]()
