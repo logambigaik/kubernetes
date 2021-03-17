@@ -76,5 +76,34 @@ If any issue in any one of microservices then deployment is required only for th
 
 Kubernetes: Kubernetes utilizes its own YAML, API, and client definitions and each of these differ from that of standard docker equivalents. That is to say, you cannot utilize Docker Compose nor Docker CLI to define containers. While switching platforms, YAML definitions and commands need to be rewritten.
 
-Docker Swarm: The Docker Swarm API doesn’t entirely encompass all of Docker’s commands but offers much of the familiar functionality from Docker. It supports most of the tools that run with Docker. Nevertheless, if Docker API is deficient of a particular operation, there doesn’t exist an easy way around it around swarm
+Docker Swarm: The Docker Swarm API doesn’t entirely encompass all of Docker’s commands but offers much of the familiar functionality from Docker. It supports most of the tools that run with Docker. Nevertheless, if Docker API is deficient of a particular operation, there doesn’t exist an easy way around it around swarm.
+
+# Load Balance:
+
+Kubernetes: Pods are exposed via service, which can be utilized as a load balancer within the cluster. Generally, an ingress is utilized for load balancing.
+
+Docker Swarm: Swarm mode consists of a DNS element that can be utilized for distributing incoming requests to a service name. Services can be assigned automatically or can run on ports specified by the user.
+
+# Networking:
+
+![image](https://user-images.githubusercontent.com/54719289/111539574-ee09d300-8765-11eb-9c49-5dc66a64da8b.png)
+
+# Availability:
+![image](https://user-images.githubusercontent.com/54719289/111539702-15f93680-8766-11eb-8232-23de7f4c7a6d.png)
+
+
+# Logging and Monitoring (K8s Vs swarm):
+
+![image](https://user-images.githubusercontent.com/54719289/111540546-2e1d8580-8767-11eb-8edc-3a65147da114.png)
+
+
+# GUI:
+
+![image](https://user-images.githubusercontent.com/54719289/111540723-6755f580-8767-11eb-8f18-bcc125f31250.png)
+
+
+# Which is best swarm or k8s:
+
+![image](https://user-images.githubusercontent.com/54719289/111541316-36c28b80-8768-11eb-8d9e-46ee737351d6.png)
+
 
