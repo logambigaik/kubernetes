@@ -62,10 +62,19 @@ If any issue in any one of microservices then deployment is required only for th
 
 ![image](https://user-images.githubusercontent.com/54719289/111526212-5d77c680-8756-11eb-9ecf-8f2cee587b3e.png)
 
-
 * Scaling:
       
             >>    Horizontal Pod Autoscale  - wil increase the no of pods
                   The Horizontal Pod Autoscaler automatically scales the number of Pods in a replication controller, deployment, replica set or stateful set based on observed CPU utilization
             >>    Vertical Pod Autoscale  - will increase the cpu memory of pod
             >>    Cluster Autoscale       - will increase the kubernetes nodes
+
+
+# Container Setup:
+
+![image](https://user-images.githubusercontent.com/54719289/111528291-e0018580-8758-11eb-9249-2e5e30b7ee6d.png)
+
+Kubernetes: Kubernetes utilizes its own YAML, API, and client definitions and each of these differ from that of standard docker equivalents. That is to say, you cannot utilize Docker Compose nor Docker CLI to define containers. While switching platforms, YAML definitions and commands need to be rewritten.
+
+Docker Swarm: The Docker Swarm API doesn’t entirely encompass all of Docker’s commands but offers much of the familiar functionality from Docker. It supports most of the tools that run with Docker. Nevertheless, if Docker API is deficient of a particular operation, there doesn’t exist an easy way around it around swarm
+
