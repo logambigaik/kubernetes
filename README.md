@@ -32,6 +32,16 @@ Containers do not waste or block host resources unlike virtual machines. Contain
 
 ![image](https://user-images.githubusercontent.com/54719289/111203704-3c2fa280-85bd-11eb-89f4-b869245ceb4b.png)
 
+![image](https://user-images.githubusercontent.com/54719289/111509805-0289a380-8745-11eb-84e1-5b0195c5b283.png)
+
+* Scaling:
+      
+            >>    Horizontal Pod Autoscale
+                  The Horizontal Pod Autoscaler automatically scales the number of Pods in a replication controller, deployment, replica set or stateful set based on observed CPU utilization
+            >>    Vertical Pod Autoscale
+            >>    Cluster Autoscale
+
+
 
 # POd is collection of COntainer:
 
@@ -55,3 +65,9 @@ If any issue in any one of microservices then deployment is required only for th
 
 
 ![image](https://user-images.githubusercontent.com/54719289/111361673-d9eea480-8685-11eb-94a0-e1e853414f06.png)
+
+# Scaling:
+
+![image](https://user-images.githubusercontent.com/54719289/111526212-5d77c680-8756-11eb-9ecf-8f2cee587b3e.png)
+
+
