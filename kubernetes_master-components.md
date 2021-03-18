@@ -1,5 +1,7 @@
 https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 
+https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/      ==> to compare docker command with kubernetes.
+
 # Kubernetes master componenets:
 
 ![image](https://user-images.githubusercontent.com/54719289/111609454-352dad80-87d2-11eb-8d7e-4045359e188c.png)
